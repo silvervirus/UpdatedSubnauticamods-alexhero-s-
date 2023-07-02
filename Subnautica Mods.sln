@@ -3,32 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Common", "Common\Common.shproj", "{6A87F420-FE54-4EDF-AC43-118B07829F55}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstantBulkheadAnimations", "InstantBulkheadAnimations\InstantBulkheadAnimations.csproj", "{01A12DA2-756D-46FC-8F42-D8AF66B2250B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurableDrillableCount", "ConfigurableDrillableCount\ConfigurableDrillableCount.csproj", "{D1641441-427A-4C34-B750-29B52AEA8147}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickupableStorageEnhanced", "PickupFullCarryalls\PickupableStorageEnhanced.csproj", "{F43B5BD7-0D24-4B58-8622-74FD8587FA85}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorizontalWallLockers", "HorizontalWallLockers\HorizontalWallLockers.csproj", "{C7651A4A-5D4F-4A85-B4C2-E9AF248816ED}"
+
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreModifiedItems", "MoreModifiedItems\MoreModifiedItems.csproj", "{B4FE15E8-AB18-42C6-A540-A5A13A386CA8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoMenuPause", "NoMenuPause\NoMenuPause.csproj", "{4E9DDD5F-4776-4051-BAEA-1E8023F06928}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6BDA6810-8C96-4271-8B1B-82F3B455BC5E}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhancedStillsuit", "EnhancedStillsuit\EnhancedStillsuit.csproj", "{8C10059C-D71C-4B56-89F5-9CEAD417244F}"
-EndProject
+
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "RamuneLib", "..\SubnauticaPlugins-Nautilus-main\RamuneLib\RamuneLib.shproj", "{614655D4-29A8-4588-A4F5-2B0D618BC996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScubaManifold", "ScubaManifold\ScubaManifold.csproj", "{0D07F580-B0EB-4D5B-B21E-4ADA61E6AF49}"
-EndProject
-Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Common\Common.projitems*{01a12da2-756d-46fc-8f42-d8af66b2250b}*SharedItemsImports = 4
 		Common\Common.projitems*{4e9ddd5f-4776-4051-baea-1e8023f06928}*SharedItemsImports = 4
