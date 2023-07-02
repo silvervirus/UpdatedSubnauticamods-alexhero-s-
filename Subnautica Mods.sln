@@ -4,11 +4,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
 
-EndProject
+
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreModifiedItems", "MoreModifiedItems\MoreModifiedItems.csproj", "{B4FE15E8-AB18-42C6-A540-A5A13A386CA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoMenuPause", "NoMenuPause\NoMenuPause.csproj", "{4E9DDD5F-4776-4051-BAEA-1E8023F06928}"
-EndProject
+
 
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "RamuneLib", "..\SubnauticaPlugins-Nautilus-main\RamuneLib\RamuneLib.shproj", "{614655D4-29A8-4588-A4F5-2B0D618BC996}"
 EndProject
