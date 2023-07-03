@@ -1,0 +1,9 @@
+{
+  "Id": "HorizontalWallLockers",
+  "DisplayName": "Horizontal Wall Lockers",
+  "Author": "AlexejheroYTB",
+  "Version": "1.0.0",
+  "Enable": true,
+  "Game": "Subnautica",
+  "AssemblyName": "HorizontalWallLockers.dll"
+}
