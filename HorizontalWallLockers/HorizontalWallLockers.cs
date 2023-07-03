@@ -54,6 +54,9 @@ namespace AlexejheroYTB.HorizontalWallLockers.prefab
                     }
 
                     prefab1.FindChild("model").transform.rotation = Quaternion.Euler(0, 0, 90);
+                    prefab1.FindChild("Collider").transform.rotation = Quaternion.Euler(0, 0, 90);
+                    prefab1.FindChild("Build Trigger").transform.rotation = Quaternion.Euler(0, 0, 90);
+                    prefab1.FindChild("TriggerCull").transform.rotation = Quaternion.Euler(0, 0, 90);
                     
 
                 }
