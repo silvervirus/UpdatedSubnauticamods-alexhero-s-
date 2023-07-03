@@ -49,7 +49,7 @@ namespace AlexejheroYTB.HorizontalWallLockers.prefab
                         m.mainTexture = HorizontalWallLockersTexture;
                         m.SetTexture("_SpecTex", HorizontalWallLockersTexture);
                         m.SetTexture("_Illum", HorizontalWallLockersTexture);
-                        m.SetTexture("_normal", HorizontalWallLockersnorm);
+                        m.SetTexture("_BumpMap", HorizontalWallLockersnorm);
                         m.SetColor("_Color", new Color(0.0f, 0.0f, 0.0f, 1.0f));
                     }
 
