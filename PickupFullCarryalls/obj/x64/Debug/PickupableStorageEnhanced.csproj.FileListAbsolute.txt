@@ -1,0 +1,2 @@
+C:\Users\Cookay\Desktop\Subnautica-Mods-master\PickupFullCarryalls\obj\x64\Debug\PickupableStorageEnhanced.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Subnautica-Mods-master\PickupFullCarryalls\obj\x64\Debug\PickupableStorageEnhanced.csproj.CoreCompileInputs.cache
